@@ -12,7 +12,7 @@
 **Web developer** with a track record in building solutions for various SMEs and companies, I have had the opportunity to take part in the construction of web applications to meet customer needs, from which I was able to extend my knowledge and soft skills to improve important aspects such as _communication and organization._
 
 
-## Habilidades / Skills 🧐
+## Que hago / What i do 🧐
 ¿Me gusta programar?, Realmente amo crear y no importa si debe ser tanto para bakend como frontend, el simple hecho de lograr un objetivo me impulsa a lograr nuevas metas y habilidades.
 
 ---
